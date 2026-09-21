@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Local runtime data
+logs/
+reports/
+state/
+__pycache__/
+*.py[cod]
